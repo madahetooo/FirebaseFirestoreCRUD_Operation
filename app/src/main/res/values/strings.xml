@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FirebaseAuthFullDemo2</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_your_age">Enter Your Age</string>
+    <string name="please_enter_email_address">Please Enter Email Address</string>
+    <string name="please_enter_your_password">Please Enter your password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="you_are_not_logged_in">You are not logged in</string>
+    <string name="enter_username">enter UserName</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="sign_in_with_google">Sign In With Google</string>
+    <string name="web_clinet">809734333449-b2nqp475ognluq1bjh009d93inefeobb.apps.googleusercontent.com</string>
+    <string name="firstname">FirstName</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age</string>
+    <string name="upload_data">Upload Data</string>
+    <string name="retrive_data">Retrive Data</string>
+    <string name="dummy_test">Dummy Test</string>
+    <string name="update_data">Update Data</string>
+</resources>
